@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f9f46769.css",
+    "main.js": "/static/js/main.5087bf29.js",
+    "static/media/Truerize_Logo.png": "/static/media/Truerize_Logo.14a75a25bc078a9294d3.png",
+    "static/media/help-video.mp4": "/static/media/help-video.6a473e840890a3ea7660.mp4",
+    "index.html": "/index.html",
+    "main.f9f46769.css.map": "/static/css/main.f9f46769.css.map",
+    "main.5087bf29.js.map": "/static/js/main.5087bf29.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9f46769.css",
+    "static/js/main.5087bf29.js"
+  ]
+}
